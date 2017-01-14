@@ -1,2 +1,2 @@
 # collection-examples
-list set map propeties
+list set map properties
