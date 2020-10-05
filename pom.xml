@@ -15,6 +15,7 @@
   </properties>
 
   <dependencies>
+    <!-- no one commit to master -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
